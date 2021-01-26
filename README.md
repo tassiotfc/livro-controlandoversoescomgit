@@ -1,5 +1,5 @@
 <h1 align="center">
-Web Moderno com JS 2020 Completo
+Controlando Versões com Git
 </h1>
 
 <p align="center">
